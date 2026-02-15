@@ -1,0 +1,37 @@
+Exercises (Class)
+1.	Create the following table using SQL query and insert the following data.
+2.	Select employees whose department is IT and salary is greater than 65,000.
+3.	Select employees whose role is Data Analyst or Software Engineer.
+4.	Select employees whose first name starts with the letter A.
+5.	Select employees whose last name ends with "n".
+6.	Select employees who are not in the HR department.
+7.	Select employees whose department is either IT, Finance, or Sales.
+8.	Select employees whose salary is between 50,000 and 80,000 using AND.
+9.	Select employees whose first name starts with A and department is IT.
+10.	Select employees whose last name contains "a" and salary is greater than 55,000.
+11.	Select employees who are in the IT department or have more than 7 years of experience.
+12.	Select employees who are not in the IT or HR departments.
+13.	Select employees whose role is not Manager and salary is above 60,000.
+14.	Select employees whose department is IT and role is not Software Engineer.
+15.	Select employees whose first name starts with A or last name ends with "d", and salary is greater than 50,000.
+Exercises (Weekly)
+1.	Select employees whose first name contains “a” and last name does not start with “K”.
+2.	Select employees who are not in IT, not in HR, and have a salary greater than 55,000.
+3.	Select employees whose role contains the word “Analyst” and whose department is IT or Operations.
+4.	Select employees whose first name starts with A or S and salary is not less than 60,000.
+5.	Select employees whose last name ends with “r” and who are not in the Finance department.
+6.	Select employees who work in IT, Sales, or Marketing and whose experience is greater than 3 years.
+7.	Select employees whose department is Operations and role is not Project Manager.
+8.	Select employees whose first name contains “i”, last name contains “a”, and salary is above 50,000.
+9.	Select employees who are not in (IT, HR) and whose salary is between 45,000 and 75,000.
+10.	Select employees whose experience is NOT IN (2, 3) and who work in Finance or Operations.
+11.	Select employees whose role does not contain “Manager” and whose salary is greater than 65,000.
+12.	Select employees whose first name starts with “A” and last name ends with “d” or “n”.
+13.	Select employees who work in IT and whose first name does not contain “i”.
+14.	Select employees whose department is Sales or Marketing and whose salary is not greater than 60,000.
+15.	Select employees whose last name contains “a” and experience is more than 4 years, but not in IT.
+16.	Select employees whose department is in (IT, Operations) and salary is not between 60,000 and 80,000.
+17.	Select employees whose first name starts with A, H, or F and whose role is not Analyst.
+18.	Select employees whose experience is greater than 5 years and department does not contain “IT”.
+19.	Select employees whose salary is above 70,000, role contains “Head” or “Manager”, and department is Operations.
+20.	Select employees whose first name contains “o”, last name does not contain “e”, and who are not in Sales or Marketing.
